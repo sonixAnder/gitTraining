@@ -10,7 +10,7 @@ void printPersonAGE(Person p)
 	cout << "Возраст: " << p.age << endl;
 }
 
-void printPersonHEIGHT(Person p)
+void printPersonWEIGHT(Person p)
 {
 	cout << "Вес: " << p.height << endl;
 }
