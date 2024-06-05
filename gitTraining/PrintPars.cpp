@@ -19,3 +19,8 @@ void printPersonCOLOREYES(Person p)
 {
 	cout << "Цвет глаз: " << p.colorEyes << endl;
 }
+
+void printPersonHEIGHT(Person p)
+{
+	cout << "Рост: " << p.height << endl;
+}

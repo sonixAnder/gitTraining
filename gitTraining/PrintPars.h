@@ -6,3 +6,4 @@ void printPersonFIO(Person p);
 void printPersonAGE(Person p);
 void printPersonWEIGHT(Person p);
 void printPersonCOLOREYES(Person p);
+void printPersonHEIGHT(Person p);

@@ -8,4 +8,5 @@ struct Person
 	int age;
 	double weight;
 	string colorEyes;
+	double height;
 };
