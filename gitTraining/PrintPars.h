@@ -1,0 +1,5 @@
+#pragma once
+#include <string>
+#include "struct_Person.h"
+
+void printPersonPars(Person p);

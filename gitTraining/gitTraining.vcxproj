@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="gitTraining%28main%29.cpp" />
+    <ClCompile Include="PrintPars.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ext.h" />
+    <ClInclude Include="PrintPars.h" />
     <ClInclude Include="struct_Person.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
