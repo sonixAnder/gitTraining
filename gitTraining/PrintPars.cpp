@@ -12,7 +12,7 @@ void printPersonAGE(Person p)
 
 void printPersonWEIGHT(Person p)
 {
-	cout << "Вес: " << p.height << endl;
+	cout << "Вес: " << p.weight << endl;
 }
 
 void printPersonCOLOREYES(Person p)
